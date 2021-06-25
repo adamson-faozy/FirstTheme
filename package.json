@@ -1,0 +1,19 @@
+{
+  "name": "firsttheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamson-faozy/FirstTheme.git"
+  },
+  "author": "faozy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamson-faozy/FirstTheme/issues"
+  },
+  "homepage": "https://github.com/adamson-faozy/FirstTheme#readme"
+}
